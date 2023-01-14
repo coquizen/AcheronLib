@@ -1,0 +1,39 @@
+[submodule "symbols"]
+	path = symbols
+	url = https://github.com/AcheronProject/acheron_Symbols
+[submodule "footprints/acheron_MXH.pretty"]
+	path = footprints/acheron_MXH.pretty
+	url = https://github.com/AcheronProject/acheron_MXH.pretty
+[submodule "footprints/acheron_MX_soldermask.pretty"]
+	path = footprints/acheron_MX_soldermask.pretty
+	url = https://github.com/AcheronProject/acheron_MX_soldermask.pretty
+[submodule "footprints/acheron_Components.pretty"]
+	path = footprints/acheron_Components.pretty
+	url = https://github.com/AcheronProject/acheron_Components.pretty
+[submodule "footprints/acheron_Connectors.pretty"]
+	path = footprints/acheron_Connectors.pretty
+	url = https://github.com/AcheronProject/acheron_Connectors.pretty
+[submodule "footprints/acheron_MXH_MetalRings.pretty"]
+	path = footprints/acheron_MXH_MetalRings.pretty
+	url = https://github.com/AcheronProject/acheron_MXH_MetalRings.pretty
+[submodule "footprints/acheron_MountingHoles.pretty"]
+	path = footprints/acheron_MountingHoles.pretty
+	url = https://github.com/AcheronProject/acheron_MountingHoles.pretty
+[submodule "footprints/acheron_MX_SolderMask.pretty"]
+	path = footprints/acheron_MX_SolderMask.pretty
+	url = https://github.com/AcheronProject/acheron_MX_SolderMask.pretty
+[submodule "footprints/acheron_MX.pretty"]
+	path = footprints/acheron_MX.pretty
+	url = https://github.com/AcheronProject/acheron_MX.pretty
+[submodule "footprints/acheron_MXA.pretty"]
+	path = footprints/acheron_MXA.pretty
+	url = https://github.com/AcheronProject/acheron_MXA.pretty
+[submodule "footprints/acheron_Logos.pretty"]
+	path = footprints/acheron_Logos.pretty
+	url = https://github.com/AcheronProject/acheron_Logos.pretty
+[submodule "footprints/acheron_Graphics.pretty"]
+	path = footprints/acheron_Graphics.pretty
+	url = https://github.com/AcheronProject/acheron_Graphics.pretty
+[submodule "3d_models"]
+	path = 3d_models
+	url = https://github.com/AcheronProject/acheron_3d
